@@ -1,7 +1,7 @@
 # ⚔️ Axie Tool ⚔️
 ---
 🔥 This is an app to help us to play Axie Infinity.  
-### It is easy to use! 🤩
+<H3> It is easy to use! 🤩</H3>
 
 The app has two parts:<br/> 
 🗡️The first part helps us to count energy and cards.<br/> 
