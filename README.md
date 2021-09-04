@@ -1,12 +1,21 @@
-# Axie Tool
+# ⚔️ Axie Tool ⚔️
 ---
+🔥 This is an app to help us to play Axie Infinity.  
+### It is easy to use! 🤩
 
-This app help you to the Axie Infinity Game. It's easily to use and it has two parts.
-If you need counting energy or cards, you can use the first part of app. 
-If you need making a record of your battles, you can use the second part of app.
+The app has two parts:<br/> 
+🗡️The first part helps us to count energy and cards.<br/> 
+🗡️The second part saves your records of wins.<br/> 
 
-Can dowload this app, here: https://bit.ly/38zUbmL
+#### Can dowload this app, here:<br/> 👉 https://bit.ly/38zUbmL  
+#### Can see how to use, here: <br/> 👉 
 
+☕I would appreciate it if you can support my work ☕  <br/> 
+<img src="https://user-images.githubusercontent.com/78284709/132076313-5967a484-f306-442f-b766-10076a5350ee.jpg" width="10"> Ronin: 0e809e2d42a47a6a23e87c3f4a5dd12a1b330703
+<br/>   
+   
 ---
-
-![View1](https://user-images.githubusercontent.com/78284709/132044349-f3fc321d-e46e-43c5-adea-80730516f99b.jpeg) ![View2](https://user-images.githubusercontent.com/78284709/132044445-13158acb-704f-44b0-a99d-af42ec7624df.jpeg)
+| Fist Part | Second Part |
+|-----------|-------------|
+| <img src ="https://user-images.githubusercontent.com/78284709/132044349-f3fc321d-e46e-43c5-adea-80730516f99b.jpeg" width="250"> | <img src ="https://user-images.githubusercontent.com/78284709/132044445-13158acb-704f-44b0-a99d-af42ec7624df.jpeg" width="250">|
+---
